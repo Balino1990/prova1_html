@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prova H&CIA - HTML & CSS com IA</title>
+</head>
+<body>
+  <h1>Bruno Alves dos Santos Lino</h1>
+  <p><b>Desenvolvedor FullStack</b></p>
+  <h2>Sobre</h2>
+  <p>Olá, meu nome é <strong>Bruno</strong>. Sou um <b>profissional dedicado</b> com experiência em diversas áreas. Tenho interesse em <b><i>tecnologia</i></b>, em <b><i>desenvolvimento web em</i></b>, e <b><i>estudos de dados</i></b>.</p>
+  <hr>
+  <h2>Formação Acadêmica</h2>
+  <ul>
+    <li>
+      <h3>Curso Superior</h3>
+      <p><strong>Universidade X</strong> - Bacharelado em Ciência da Computação</p>
+      <p><i>Período:</i> 2015 - 2019</p>
+    </li>
+    <li>
+      <h3>Curso Técnico</h3>
+      <p><strong>Instituição Y</strong> - Especialização em Desenvolvimento Web</p>
+      <p><i>Período:</i> 2019 - 2021</p>
+    </li>
+    <li>
+      <h3>Curso Complementar</h3>
+      <p><strong>Infinity School</strong> - Desenvolvedor FullStack</p>
+      <p><i>Período:</i> 2024 - 2025</p>
+    </li>
+  </ul>
+  <hr>
+  <h2>Experiência Profissional</h2>
+  <ul>
+    <li>
+      <h3>Empresa Y</h3>
+      <p><strong>Cargo:</strong> Desenvolvedor Web</p>
+      <p><i>Período:</i> 2020 - Presente</p>
+    </li>
+    <li>
+      <h3>Empresa Z</h3>
+      <p><strong>Cargo:</strong> Estágio Desenvolvimento</p>
+      <p><i>Período:</i> 2019 - 2020</p>
+    </li>
+  </ul>
+  <hr>
+  <h2>Soft-Skills</h2>
+  <ul>
+    <li>Comunicação Eficaz</li>
+    <li>Trabalho em Equipe</li>
+    <li>Resolução de Problemas</li>
+    <li>Adaptabilidade</li>
+    <li>Empatia</li>
+  </ul>
+  <h2>Contato</h2>
+  <p>Você pode me encontrar nas redes sociais:</p>
+  <ul>
+    <li><a href="https://www.linkedin.com/in/bruno-alves-66982b135/" target="_blank">LinkedIn</a></li>
+    <li><a href="https://github.com/Balino1990" target="_blank">GitHub</a></li>
+  </ul>
+</body>
+</html>
